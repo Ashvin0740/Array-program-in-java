@@ -1,7 +1,7 @@
 public class CopyArray {    
     public static void main(String[] args) {        
              //Initialize array     
-        int [] arr1 = new int [] {1, 2, 3, 4, 5,6,7,8,9,10};     
+        int arr1[] = new int [] {1, 2, 3, 4, 5,6,7,8,9,10};     
          //Create another array arr2 with size of arr1    
         int arr2[] = new int[arr1.length];    
         //Copying all elements of one array into another    
